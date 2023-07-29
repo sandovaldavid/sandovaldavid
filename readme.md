@@ -18,8 +18,8 @@
 
 <h2 style="color: #44AEFB">⚙️ Languages and Tools</h2>
 <div align="center" style="display:block;">
-    <img width="100px" alt="Programming Languages" src="/img/AluraChallengeProyecto1.png"/> 
-    <img width="100px" alt="Programming Languages" src="/img/InsigniaProyecto03.png"/> 
+    <img width="200px" alt="Programming Languages" src="/img/AluraChallengeProyecto1.png"/> 
+    <img width="200px" alt="Programming Languages" src="/img/InsigniaProyecto03.png"/> 
 </div>
 <br>   
 <!-- Icons Resources -->
