@@ -1,8 +1,10 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 David Sandoval Salvador</h1>
 <div style = "widht: 20%, margin:auto;">
+  
   ## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@sandovalda41191/30-nites-of-code)  
   ![@sandovalda41191 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sandovalda41191)
+  
 </div>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
