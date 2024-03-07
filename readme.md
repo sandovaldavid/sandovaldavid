@@ -1,11 +1,13 @@
 <h1 style="color: #44AEFB;"> 👨🏻‍💻 David Sandoval Salvador</h1>
-<div style = "width: 20%, margin:auto;">
-  
-  ## #30NitesOfCode:
+<h2 style = "color: rgb(202, 232, 101);">Codédex: </h2>
+<div style = "width: 40%; margin:auto;">
+
+## #30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@sandovalda41191/30-nites-of-code)  
   ![@sandovalda41191 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=sandovalda41191)
-  
+
 </div>
+<h2 style = "color: rgb(202, 232, 101);">Myself: </h2>
 
 <p align:"center" style="text-align: justify; margin: 0 50px; font-size: 17px;" >
     I'm an informatic engineer student, I'm 20 years old.
