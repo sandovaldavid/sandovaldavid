@@ -110,19 +110,19 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovaldavid&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-<div style="text-align: center;">
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=sandovaldavid&count_private=true&theme=algolia&border_radius=20)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sandovaldavid&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak">
+</p>
 
 ## 🎯 Codédex Progress
 
-<div align="center">
-  
-  [![Check out my progress!](https://www.codedex.io/api/petStatus?user=sandovaldavid)](https://www.codedex.io/@sandovaldavid/30-nites-of-code)
-  
+<div style="text-align: center;">
+  <a href="https://www.codedex.io/@sandovaldavid/30-nites-of-code" style="color: white; text-decoration: none;">
+    <img src="https://www.codedex.io/api/petStatus?user=sandovaldavid" alt="Check out my progress!">
+    <br>Check out my progress!
+  </a>
 </div>
+
 
 ---
 
