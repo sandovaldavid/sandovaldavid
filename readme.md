@@ -111,7 +111,9 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
 </p>
 
 <div style="text-align: center;">
-  <img src="https://streak-stats.demolab.com?user=sandovaldavid&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak">
+
+  ![GitHub Streak](https://streak-stats.demolab.com?user=sandovaldavid&count_private=true&theme=algolia&border_radius=20)
+
 </div>
 
 ## 🎯 Codédex Progress
