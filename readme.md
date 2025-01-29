@@ -105,7 +105,8 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
 ## 📊 GitHub Stats
-ign="center">
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovaldavid&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
