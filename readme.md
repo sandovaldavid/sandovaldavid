@@ -123,7 +123,6 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
   </a>
 </div>
 
-
 ---
 
 <div align="center">
