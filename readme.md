@@ -111,7 +111,7 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=sandovaldavid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=sandovaldavid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎯 Codédex Progress
