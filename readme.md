@@ -116,12 +116,12 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
 
 ## 🎯 Codédex Progress
 
-<div style="text-align: center;">
+<p align="center">
   <a href="https://www.codedex.io/@sandovaldavid/30-nites-of-code" style="color: white; text-decoration: none;">
     <img src="https://www.codedex.io/api/petStatus?user=sandovaldavid" alt="Check out my progress!">
     <br>Check out my progress!
   </a>
-</div>
+</p>
 
 ---
 
