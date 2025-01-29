@@ -107,7 +107,7 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandovaldavid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovaldavid&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
 
 <div align="center">
@@ -115,6 +115,7 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
 </div>
 
 ## 🎯 Codédex Progress
+
 <div align="center">
   
   [![Check out my progress!](https://www.codedex.io/api/petStatus?user=sandovaldavid)](https://www.codedex.io/@sandovaldavid/30-nites-of-code)
