@@ -114,17 +114,9 @@ I'm a passionate Full Stack Developer with a strong focus on backend development
   <img src="https://streak-stats.demolab.com?user=sandovaldavid&count_private=true&theme=algolia&border_radius=20" alt="GitHub Streak">
 </p>
 
-## 🎯 Codédex Progress (#30NitesOfCode)
-
-<p align="center">
-  <a href="https://www.codedex.io/@sandovaldavid/30-nites-of-code" style="color: white; text-decoration: none;">
-    <img src="https://www.codedex.io/api/petStatus?user=sandovaldavid" alt="Check out my progress!">
-    <br>Check out my progress!
-  </a>
-</p>
-
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sandovaldavid&color=blueviolet" alt="Profile Views" />
 </div>
+
