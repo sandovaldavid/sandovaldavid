@@ -72,9 +72,12 @@ Mi conjunto de herramientas está seleccionado para construir aplicaciones robus
 
 Estas son una prueba de mi dedicación y constancia en el código.
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sandovaldavid&theme=react&hide_border=true&locale=es&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=sandovaldavid&theme=material&hide_border=true&locale=es&mode=weekly&exclude_days=Sat)](https://git.io/streak-stats)
+
 
 ---
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=sandovaldavid&color=blue" alt="Profile Views" />
 </div>
+
