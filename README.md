@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c82f1,100:8b5cf6&height=280&text=David%20Sandoval%20&fontColor=ffffff&&textBg=false&desc=Software%20Engineer%20|%20Full-Stack%20Dev%20|%20Data%20Science&section=header&reversal=false" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Full-Stack%20Dev%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" width="100%" />
 
   <h1>Hi there! I'm David Sandoval 👋</h1>
   
