@@ -63,8 +63,7 @@ I am passionate about "Learning by Doing". Currently focused on:
 | Project | Description | Stack |
 | :--- | :--- | :--- |
 | **🧠 AI Project Health Predictor** <br> *(B.S. Thesis)* | LSTM Neural Network model to predict GitHub repo health based on contribution patterns. | `Python` `TensorFlow` `Keras` `Pandas` |
-| **🛍️ Byte Shop E-Commerce** | Full-stack platform with order management, Stripe payments, and headless CMS. | `Node.js` `Next.js` `Sanity` `Stripe` |
-| **🎓 UNP Faculty Management** | Optimized CRUD system for academic administration with cloud media management. | `Next.js` `MySQL` `Cloudinary` `Docker` |
+| **🎓 UNP Map** | Optimized CRUD system for academic administration with cloud media management. | `Next.js` `MySQL` `Cloudinary` `Docker` |
 | **📚 FluentRead Platform** | Digital books e-commerce with automated delivery via WhatsApp & Drive APIs. | `Astro` `WhatsApp API` `Google Drive` |
 
 ---
