@@ -4,7 +4,7 @@
   <h1>Hi there! I'm David Sandoval 👋</h1>
   
   <p>
-    <b>Software Engineer 🇵🇪 | Content Creator at <a href="https://instagram.com/sandovaldavid">@sandovaldavid</a></b>
+    <b>Software Engineer 🇵🇪 | Content Creator at <a href="https://instagram.com/jdsandoval">@jdsandoval</a></b>
   </p>
 
   <p>
@@ -14,17 +14,14 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/sandovaldavid" target="_blank">
+  <a href="https://linkedin.com/in/jdsandovals" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/sandovaldavid" target="_blank">
+  <a href="https://instagram.com/jdsandoval" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://x.com/sandovaldavid" target="_blank">
+  <a href="https://x.com/jdsandoval_" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://www.youtube.com/@sandovaldavid" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 
 </div>
@@ -102,6 +99,6 @@ I am passionate about "Learning by Doing". Currently focused on:
   <i>"Continuous learning is my engine; I aspire to improve every day as an engineer and as a person."</i>
   <br/><br/>
   <a href="mailto:hello@sandovaldavid.com">
-    <img src="https://img.shields.io/badge/Contact_Me-hello@sandovaldavid.com-103c82f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+    <img src="https://img.shields.io/badge/Contact_Me-hello@sandovaldavid.com-87CEEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
   </a>
 </div>
