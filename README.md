@@ -101,7 +101,7 @@ I am passionate about "Learning by Doing". Currently focused on:
 <div align="center">
   <i>"Continuous learning is my engine; I aspire to improve every day as an engineer and as a person."</i>
   <br/><br/>
-  <a href="mailto:dev@sandovaldavid.com">
-    <img src="https://img.shields.io/badge/Contact_Me-dev@sandovaldavid.com-103c82f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+  <a href="mailto:hello@sandovaldavid.com">
+    <img src="https://img.shields.io/badge/Contact_Me-hello@sandovaldavid.com-103c82f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
   </a>
 </div>
