@@ -4,7 +4,7 @@
   <h1>Hi there! I'm David Sandoval 👋</h1>
   
   <p>
-    <b>Software Engineer 🇵🇪 | Content Creator at <a href="https://instagram.com/jdsandoval">@jdsandoval</a></b>
+    <b>Software Engineer 🇵🇪 | Content Creator at <a href="https://instagram.com/jdsandovals">@jdsandovals</a></b>
   </p>
 
   <p>
@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/jdsandovals" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/jdsandoval" target="_blank">
+  <a href="https://instagram.com/jdsandovals" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="https://x.com/jdsandoval_" target="_blank">
