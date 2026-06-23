@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Full-Stack%20Dev%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" width="100%" />
 
   <h1>Hi there! I'm David Sandoval 👋</h1>
   
   <p>
-    <b>Software Engineer 🇵🇪 | Content Creator at <a href="https://instagram.com/dev.sandoval">@DevSandoval</a></b>
+    <b>Software Engineer 🇵🇪 | Content Creator at <a href="https://instagram.com/sandovaldavid">@sandovaldavid</a></b>
   </p>
 
   <p>
@@ -14,16 +14,16 @@
 
   <br/>
 
-  <a href="https://linkedin.com/in/devsandoval" target="_blank">
+  <a href="https://linkedin.com/in/sandovaldavid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://instagram.com/dev.sandoval" target="_blank">
+  <a href="https://instagram.com/sandovaldavid" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://x.com/dev_sandoval" target="_blank">
+  <a href="https://x.com/sandovaldavid" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="https://www.youtube.com/@devsandoval" target="_blank">
+  <a href="https://www.youtube.com/@sandovaldavid" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
   </a>
 
@@ -39,7 +39,7 @@ I am passionate about "Learning by Doing". Currently focused on:
 - 🔭 Building scalable **End-to-End** applications.
 - 🌱 Deepening skills in **C# / .NET**, **Astro**, **ArgoCD**, and **Grafana**.
 - 🤖 Integrating **Generative AI** into real-world workflows for SMBs.
-- ✍️ Documenting my journey as **DevSandoval**.
+- ✍️ Documenting my journey as **sandovaldavid**.
 
 ---
 
