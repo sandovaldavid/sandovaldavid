@@ -60,23 +60,37 @@ I am passionate about "Learning by Doing". Currently focused on:
 
 ### 🏆 Featured Projects
 
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **🧠 AI Project Health Predictor** <br> *(B.S. Thesis)* | LSTM Neural Network model to predict GitHub repo health based on contribution patterns. | `Python` `TensorFlow` `Keras` `Pandas` |
-| **🎓 UNP Map** | Optimized CRUD system for academic administration with cloud media management. | `Next.js` `MySQL` `Cloudinary` `Docker` |
-| **📚 FluentRead Platform** | Digital books e-commerce with automated delivery via WhatsApp & Drive APIs. | `Astro` `WhatsApp API` `Google Drive` |
+| Project | Description | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **🧠 OSS Health Sentinel (Thesis)** | A Deep Bi-LSTM neural network system to predict open-source project abandonment risk using CHAOSS metrics. | `Python` `Jupyter` `TensorFlow` `Pandas` | 🔒 *Private Codebase* |
+| **🎓 UNP Campus Map** | Interactive campus directory mapping schools, pavilions, and resources for Universidad Nacional de Piura. | `Next.js` `MySQL` `Cloudinary` `Docker` | [📂 Repo](https://github.com/sandovaldavid/unp-campus-map) |
+| **💡 AI Business Idea Generator** | Full-stack application generating and refining business ideas. Designed with a fast Bun API and modern web UI. | `TypeScript` `React` `Bun` `Elysia` | [🖥️ Web Repo](https://github.com/sandovaldavid/ideas-generator-ai-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/ideas-generator-ai-api) |
+| **📊 AI Sentiment Analyzer** | Multilingual text emotion analysis tool utilizing a Django backend and a responsive front-end dashboard. | `Python` `Django` `React` `TypeScript` | [🖥️ Web Repo](https://github.com/sandovaldavid/sentiment-analysis-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/sentiment-analysis-api) |
+| **⚡ OCI ARM Hunter** | Automation script that programmatically queries the OCI API until an ARM Always Free instance is acquired. | `Shell` `OCI CLI` `Linux` | [📂 Repo](https://github.com/sandovaldavid/oci-arm-hunter) |
 
 ---
 
+### 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dev-sandoval&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-sandoval&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" alt="Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sandovaldavid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" alt="Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovaldavid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" alt="Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandovaldavid&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
   <i>"Continuous learning is my engine; I aspire to improve every day as an engineer and as a person."</i>
   <br/><br/>
-  <a href="mailto:tu.email.profesional@gmail.com">📩 Contact Me</a>
+  <a href="mailto:dev@sandovaldavid.com">
+    <img src="https://img.shields.io/badge/Contact_Me-dev@sandovaldavid.com-103c82f1?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
+  </a>
 </div>
