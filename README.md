@@ -1,19 +1,41 @@
+<!--
+  ╔═══════════════════════════════════════════════════════════════╗
+  ║  🥚 Hey, curious dev! You are reading the raw source. Nice.     ║
+  ║     People who hit "View Source" are my favorite kind.          ║
+  ║     Here is a cookie for the road: 🍪                           ║
+  ║     psst... there is another secret waiting at the bottom 👀    ║
+  ╚═══════════════════════════════════════════════════════════════╝
+-->
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" width="100%" />
+
+  <!-- Theme-reactive banner: colors adapt to your GitHub light/dark mode -->
+  <a href="https://sandovaldavid.com" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" />
+      <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:60a5fa,100:c4b5fd&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" />
+      <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" width="100%" alt="David Sandoval — Software Engineer & Data Science" />
+    </picture>
+  </a>
 
   <h1>Hi there! I'm David Sandoval 👋</h1>
-  
-  <p>
-    <b>Software Engineer 🇵🇪 | Content Creator at <a href="https://instagram.com/jdsandovals">@jdsandovals</a></b>
-  </p>
+
+  <!-- Animated typing headline (rotating taglines + a couple of dev jokes 😉) -->
+  <a href="https://github.com/sandovaldavid">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%87%B5%F0%9F%87%AA;Data+Science+%26+Applied+AI+%F0%9F%A4%96;Content+Creator+%40jdsandovals+%E2%9C%8D%EF%B8%8F;git+commit+-m+'it+works%2C+idk+why'+%F0%9F%98%85;sudo+rm+-rf+%2Fproblemas" alt="What I do" />
+  </a>
 
   <p>
-    Bridging the gap between business needs and tech solutions. I combine 
+    Bridging the gap between business needs and tech solutions. I combine
     <b>Modern Web Development</b> with <b>Data Science</b> and <b>Applied AI</b> to build scalable end-to-end applications.
   </p>
 
   <br/>
 
+  <!-- Social + Portfolio -->
+  <a href="https://sandovaldavid.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-3C82F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="https://linkedin.com/in/jdsandovals" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -23,6 +45,11 @@
   <a href="https://x.com/jdsandoval_" target="_blank">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
   </a>
+
+  <br/><br/>
+
+  <!-- Live profile view counter -->
+  <img src="https://komarev.com/ghpvc/?username=sandovaldavid&label=Profile%20views&color=3c82f1&style=for-the-badge" alt="Profile views"/>
 
 </div>
 
@@ -36,16 +63,31 @@ I am passionate about "Learning by Doing". Currently focused on:
 - 🔭 Building scalable **End-to-End** applications.
 - 🌱 Deepening skills in **C# / .NET**, **Astro**, **ArgoCD**, and **Grafana**.
 - 🤖 Integrating **Generative AI** into real-world workflows for SMBs.
-- ✍️ Documenting my journey as **sandovaldavid**.
+- ✍️ Documenting my journey — see **Latest Blog Posts** below.
 
 ---
 
-### 📊 GitHub Activity Snapshot
+### 📈 Activity Overview
 
-*Below is a live-extracted summary of my projects and activity across **100 repositories** (32 Public, 68 Private):*
+<div align="center">
 
-- 🛠️ **Current Focus**: Architecting robust backend services using **C# / .NET Core** (such as `debt-tracker-api`) coupled with clean modern frontends in **Astro** (`portfolio-v1`, `linktree`).
-- 📈 **Core Competencies**: High-performance backend development, database administration (SQL Server, Postgres), GitOps orchestration (ArgoCD), and telemetry observability (Grafana).
+  <!-- Auto-generated daily by .github/workflows/metrics.yml (includes private repos). -->
+  <!-- Populates after the first workflow run. -->
+  <img src="./github-metrics.svg" alt="GitHub metrics — real activity across public and private repositories" width="100%" />
+
+</div>
+
+---
+
+### 🧠 Featured Project — OSS Health Sentinel *(Thesis)*
+
+> A **Deep Bi-LSTM** neural network system that predicts **open-source project abandonment risk** using **CHAOSS** community-health metrics.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+🔒 *Private Codebase*
 
 ---
 
@@ -66,15 +108,34 @@ I am passionate about "Learning by Doing". Currently focused on:
 
 ---
 
-### 🏆 Featured Projects
+### 🏆 More Projects
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🧠 OSS Health Sentinel (Thesis)** | A Deep Bi-LSTM neural network system to predict open-source project abandonment risk using CHAOSS metrics. | `Python` `Jupyter` `TensorFlow` `Pandas` | 🔒 *Private Codebase* |
 | **🎓 UNP Campus Map** | Interactive campus directory mapping schools, pavilions, and resources for Universidad Nacional de Piura. | `Next.js` `MySQL` `Cloudinary` `Docker` | [📂 Repo](https://github.com/sandovaldavid/unp-campus-map) |
 | **💡 AI Business Idea Generator** | Full-stack application generating and refining business ideas. Designed with a fast Bun API and modern web UI. | `TypeScript` `React` `Bun` `Elysia` | [🖥️ Web Repo](https://github.com/sandovaldavid/ideas-generator-ai-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/ideas-generator-ai-api) |
 | **📊 AI Sentiment Analyzer** | Multilingual text emotion analysis tool utilizing a Django backend and a responsive front-end dashboard. | `Python` `Django` `React` `TypeScript` | [🖥️ Web Repo](https://github.com/sandovaldavid/sentiment-analysis-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/sentiment-analysis-api) |
 | **⚡ OCI ARM Hunter** | Automation script that programmatically queries the OCI API until an ARM Always Free instance is acquired. | `Shell` `OCI CLI` `Linux` | [📂 Repo](https://github.com/sandovaldavid/oci-arm-hunter) |
+
+---
+
+### 📝 Latest Blog Posts
+
+<!-- Auto-updated by .github/workflows/blog-posts.yml -->
+<!-- BLOG-POST-LIST:START -->
+<!-- Los últimos posts aparecerán aquí automáticamente al correr el workflow. -->
+<!-- BLOG-POST-LIST:END -->
+
+➡️ [See all posts on my blog](https://sandovaldavid.com)
+
+---
+
+### ⏱️ Weekly Coding Breakdown
+
+<!-- Auto-updated by .github/workflows/waka.yml (WakaTime) -->
+<!--START_SECTION:waka-->
+<!-- Tu desglose semanal por lenguaje aparecerá aquí automáticamente al correr el workflow. -->
+<!--END_SECTION:waka-->
 
 ---
 
@@ -83,6 +144,17 @@ I am passionate about "Learning by Doing". Currently focused on:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sandovaldavid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" alt="Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovaldavid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" alt="Languages"/>
+</div>
+
+<br/>
+
+<!-- 🐍 Contribution snake — eats my commit grid. Generated daily by .github/workflows/snake.yml -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandovaldavid/sandovaldavid/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandovaldavid/sandovaldavid/output/github-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sandovaldavid/sandovaldavid/output/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 <br/>
@@ -101,4 +173,20 @@ I am passionate about "Learning by Doing". Currently focused on:
   <a href="mailto:hello@sandovaldavid.com">
     <img src="https://img.shields.io/badge/Contact_Me-hello@sandovaldavid.com-87CEEB?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact Me"/>
   </a>
+  <a href="https://sandovaldavid.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-sandovaldavid.com-3C82F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- 🥚 Easter egg #2: the secret I promised at the top -->
+  <details>
+    <summary>🎩 ¿Buscabas un secreto? Haz click aquí</summary>
+    <br/>
+    <p><i>☕ → 💻 &nbsp; Compilo café en código desde 2019.</i></p>
+    <p>Fun fact: mi primer <code>Hello World</code> fue en <b>Java</b>… y todavía le tengo cariño (a veces).</p>
+    <p>Si llegaste hasta aquí leyendo, te ganaste un apretón de manos virtual 🤝<br/>
+    Escríbeme y menciona la palabra <b>"galleta"</b> — sabré que eres de los curiosos. 🍪</p>
+  </details>
+
 </div>
