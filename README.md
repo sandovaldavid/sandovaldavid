@@ -107,37 +107,44 @@ I am passionate about "Learning by Doing". Currently focused on:
 
 <div align="center">
 
-  <!-- Kioku — MCP Server for Obsidian -->
-  <a href="https://github.com/sandovaldavid/kioku">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=kioku&description_lines_count=3&theme=transparent" alt="Kioku"/>
-  </a>
-
-  <!-- OCI ARM Hunter -->
-  <a href="https://github.com/sandovaldavid/oci-arm-hunter">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=oci-arm-hunter&description_lines_count=3&theme=transparent" alt="OCI ARM Hunter"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- AI Idea Generator — Web -->
-  <a href="https://github.com/sandovaldavid/ideas-generator-ai-web">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=ideas-generator-ai-web&description_lines_count=3&theme=transparent" alt="AI Idea Generator — Web"/>
-  </a>
-  <!-- AI Idea Generator — API -->
-  <a href="https://github.com/sandovaldavid/ideas-generator-ai-api">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=ideas-generator-ai-api&description_lines_count=3&theme=transparent" alt="AI Idea Generator — API"/>
-  </a>
-
-  <br/><br/>
-
-  <!-- AI Sentiment Analyzer — Web -->
-  <a href="https://github.com/sandovaldavid/sentiment-analysis-web">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=sentiment-analysis-web&description_lines_count=3&theme=transparent" alt="AI Sentiment Analyzer — Web"/>
-  </a>
-  <!-- AI Sentiment Analyzer — API -->
-  <a href="https://github.com/sandovaldavid/sentiment-analysis-api">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=sentiment-analysis-api&description_lines_count=3&theme=transparent" alt="AI Sentiment Analyzer — API"/>
-  </a>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sandovaldavid/kioku">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=kioku&description_lines_count=3&theme=transparent" width="100%" alt="Kioku"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sandovaldavid/oci-arm-hunter">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=oci-arm-hunter&description_lines_count=3&theme=transparent" width="100%" alt="OCI ARM Hunter"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sandovaldavid/ideas-generator-ai-web">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=ideas-generator-ai-web&description_lines_count=3&theme=transparent" width="100%" alt="AI Idea Generator — Web"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sandovaldavid/ideas-generator-ai-api">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=ideas-generator-ai-api&description_lines_count=3&theme=transparent" width="100%" alt="AI Idea Generator — API"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <a href="https://github.com/sandovaldavid/sentiment-analysis-web">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=sentiment-analysis-web&description_lines_count=3&theme=transparent" width="100%" alt="AI Sentiment Analyzer — Web"/>
+        </a>
+      </td>
+      <td width="50%" align="center">
+        <a href="https://github.com/sandovaldavid/sentiment-analysis-api">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=sentiment-analysis-api&description_lines_count=3&theme=transparent" width="100%" alt="AI Sentiment Analyzer — API"/>
+        </a>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
