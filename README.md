@@ -1,24 +1,19 @@
 <!--
   ╔═══════════════════════════════════════════════════════════════╗
-  ║  🥚 Hey, curious dev! You are reading the raw source. Nice.     ║
-  ║     People who hit "View Source" are my favorite kind.          ║
-  ║     Here is a cookie for the road: 🍪                           ║
-  ║     psst... there is another secret waiting at the bottom 👀    ║
+  ║  🥚 Hey, curious dev! You are reading the raw source. Nice.   ║
+  ║     People who hit "View Source" are my favorite kind.        ║
+  ║     Here is a cookie for the road: 🍪                         ║
+  ║     psst... there is another secret waiting at the bottom 👀  ║
   ╚═══════════════════════════════════════════════════════════════╝
 -->
 
 <div align="center">
 
-  <!-- Theme-reactive banner: colors adapt to your GitHub light/dark mode -->
+  <!-- Banner: links to portfolio -->
   <a href="https://sandovaldavid.com" target="_blank">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" />
-      <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:60a5fa,100:c4b5fd&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" />
-      <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=10:3c82f1,100:8b5cf6&text=David%20Sandoval&fontColor=ffffff&fontSize=70&fontAlign=50&fontAlignY=40&animation=fadeIn&desc=Software%20Engineer%20|%20Data%20Science&descAlignY=55&reversal=true&descSize=20" width="100%" alt="David Sandoval — Software Engineer & Data Science" />
-    </picture>
+    <h1>Hi there! I'm David Sandoval 👋</h1>
   </a>
-
-  <h1>Hi there! I'm David Sandoval 👋</h1>
+  <p><b>Software Engineer</b> · <b>Data Science</b></p>
 
   <!-- Animated typing headline (rotating taglines + a couple of dev jokes 😉) -->
   <a href="https://github.com/sandovaldavid">
@@ -63,7 +58,7 @@ I am passionate about "Learning by Doing". Currently focused on:
 - 🔭 Building scalable **End-to-End** applications.
 - 🌱 Deepening skills in **C# / .NET**, **Astro**, **ArgoCD**, and **Grafana**.
 - 🤖 Integrating **Generative AI** into real-world workflows for SMBs.
-- ✍️ Documenting my journey — see **Latest Blog Posts** below.
+- ✍️ Documenting my journey.
 
 ---
 
@@ -112,23 +107,18 @@ I am passionate about "Learning by Doing". Currently focused on:
 
 | Project | Description | Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **🎓 UNP Campus Map** | Interactive campus directory mapping schools, pavilions, and resources for Universidad Nacional de Piura. | `Next.js` `MySQL` `Cloudinary` `Docker` | [📂 Repo](https://github.com/sandovaldavid/unp-campus-map) |
-| **💡 AI Business Idea Generator** | Full-stack application generating and refining business ideas. Designed with a fast Bun API and modern web UI. | `TypeScript` `React` `Bun` `Elysia` | [🖥️ Web Repo](https://github.com/sandovaldavid/ideas-generator-ai-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/ideas-generator-ai-api) |
-| **📊 AI Sentiment Analyzer** | Multilingual text emotion analysis tool utilizing a Django backend and a responsive front-end dashboard. | `Python` `Django` `React` `TypeScript` | [🖥️ Web Repo](https://github.com/sandovaldavid/sentiment-analysis-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/sentiment-analysis-api) |
-| **⚡ OCI ARM Hunter** | Automation script that programmatically queries the OCI API until an ARM Always Free instance is acquired. | `Shell` `OCI CLI` `Linux` | [📂 Repo](https://github.com/sandovaldavid/oci-arm-hunter) |
+| **🧠 Kioku** | MCP server + Obsidian plugin that lets AI agents (Claude Code, OpenCode) read, search, write, and organize your vault natively. 117 tools, hybrid search, Zettelkasten workflows. | `C#` `.NET` `TypeScript` `MCP` | [📂 Repo](https://github.com/sandovaldavid/kioku) |
+| **💡 AI Idea Generator** | Full-stack app to generate ideas for social media posts using AI (Gemini/OpenAI). Bun + Elysia API with a React/Vite frontend. | `TypeScript` `React` `Bun` `Elysia` | [🖥️ Web Repo](https://github.com/sandovaldavid/ideas-generator-ai-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/ideas-generator-ai-api) |
+| **📊 AI Sentiment Analyzer** | REST API for sentiment analysis in Spanish and English using Django REST Framework, with a React/Vite dashboard frontend. | `Python` `Django` `React` `TypeScript` | [🖥️ Web Repo](https://github.com/sandovaldavid/sentiment-analysis-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/sentiment-analysis-api) |
+| **⚡ OCI ARM Hunter** | Automated hunter that retries the OCI API until an ARM Always Free instance becomes available and claims it immediately. | `Shell` `OCI CLI` `Linux` | [📂 Repo](https://github.com/sandovaldavid/oci-arm-hunter) |
 
 ---
 
-### 📝 Latest Blog Posts
-
-<!-- Auto-updated by .github/workflows/blog-posts.yml -->
+<!-- ### 📝 Latest Blog Posts — hidden until blog is live -->
 <!-- BLOG-POST-LIST:START -->
 <!-- Los últimos posts aparecerán aquí automáticamente al correr el workflow. -->
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [See all posts on my blog](https://sandovaldavid.com)
-
----
+<!-- ➡️ [See all posts on my blog](https://sandovaldavid.com) -->
 
 ### ⏱️ Weekly Coding Breakdown
 
@@ -142,8 +132,12 @@ I am passionate about "Learning by Doing". Currently focused on:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandovaldavid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" alt="Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandovaldavid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160px" alt="Languages"/>
+  <a href="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight">
+    <img src="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My GitHub Stats"/>
+  </a>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=tokyonight">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=tokyonight" alt="Top Languages"/>
+  </a>
 </div>
 
 <br/>
