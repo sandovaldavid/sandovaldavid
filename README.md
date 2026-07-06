@@ -105,12 +105,41 @@ I am passionate about "Learning by Doing". Currently focused on:
 
 ### 🏆 More Projects
 
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| **🧠 Kioku** | MCP server + Obsidian plugin that lets AI agents (Claude Code, OpenCode) read, search, write, and organize your vault natively. 117 tools, hybrid search, Zettelkasten workflows. | `C#` `.NET` `TypeScript` `MCP` | [📂 Repo](https://github.com/sandovaldavid/kioku) |
-| **💡 AI Idea Generator** | Full-stack app to generate ideas for social media posts using AI (Gemini/OpenAI). Bun + Elysia API with a React/Vite frontend. | `TypeScript` `React` `Bun` `Elysia` | [🖥️ Web Repo](https://github.com/sandovaldavid/ideas-generator-ai-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/ideas-generator-ai-api) |
-| **📊 AI Sentiment Analyzer** | REST API for sentiment analysis in Spanish and English using Django REST Framework, with a React/Vite dashboard frontend. | `Python` `Django` `React` `TypeScript` | [🖥️ Web Repo](https://github.com/sandovaldavid/sentiment-analysis-web) <br> [⚙️ API Repo](https://github.com/sandovaldavid/sentiment-analysis-api) |
-| **⚡ OCI ARM Hunter** | Automated hunter that retries the OCI API until an ARM Always Free instance becomes available and claims it immediately. | `Shell` `OCI CLI` `Linux` | [📂 Repo](https://github.com/sandovaldavid/oci-arm-hunter) |
+<div align="center">
+
+  <!-- Kioku — MCP Server for Obsidian -->
+  <a href="https://github.com/sandovaldavid/kioku">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=kioku&description_lines_count=3&theme=transparent" alt="Kioku"/>
+  </a>
+
+  <!-- OCI ARM Hunter -->
+  <a href="https://github.com/sandovaldavid/oci-arm-hunter">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=oci-arm-hunter&description_lines_count=3&theme=transparent" alt="OCI ARM Hunter"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- AI Idea Generator — Web -->
+  <a href="https://github.com/sandovaldavid/ideas-generator-ai-web">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=ideas-generator-ai-web&description_lines_count=3&theme=transparent" alt="AI Idea Generator — Web"/>
+  </a>
+  <!-- AI Idea Generator — API -->
+  <a href="https://github.com/sandovaldavid/ideas-generator-ai-api">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=ideas-generator-ai-api&description_lines_count=3&theme=transparent" alt="AI Idea Generator — API"/>
+  </a>
+
+  <br/><br/>
+
+  <!-- AI Sentiment Analyzer — Web -->
+  <a href="https://github.com/sandovaldavid/sentiment-analysis-web">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=sentiment-analysis-web&description_lines_count=3&theme=transparent" alt="AI Sentiment Analyzer — Web"/>
+  </a>
+  <!-- AI Sentiment Analyzer — API -->
+  <a href="https://github.com/sandovaldavid/sentiment-analysis-api">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=sentiment-analysis-api&description_lines_count=3&theme=transparent" alt="AI Sentiment Analyzer — API"/>
+  </a>
+
+</div>
 
 ---
 
@@ -132,11 +161,11 @@ I am passionate about "Learning by Doing". Currently focused on:
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight">
-    <img src="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My GitHub Stats"/>
+  <a href="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="My GitHub Stats"/>
   </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&langs_count=6&theme=tokyonight">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&langs_count=6&theme=transparent">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&langs_count=6&theme=transparent" alt="Top Languages"/>
   </a>
 </div>
 
@@ -154,7 +183,7 @@ I am passionate about "Learning by Doing". Currently focused on:
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandovaldavid&theme=tokyonight&bg_color=0d1117&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandovaldavid&theme=tokyo-night&bg_color=transparent&hide_border=true&color=8b949e&line=3c82f1&point=8b5cf6" width="100%" alt="Activity Graph" />
 </div>
 
 <br/>
