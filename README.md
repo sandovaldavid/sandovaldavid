@@ -164,20 +164,6 @@ I am passionate about "Learning by Doing". Currently focused on:
   <a href="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent">
     <img src="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=transparent" alt="My GitHub Stats"/>
   </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&langs_count=6&theme=transparent">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&langs_count=6&theme=transparent" alt="Top Languages"/>
-  </a>
-</div>
-
-<br/>
-
-<!-- 🐍 Contribution snake — eats my commit grid. Generated daily by .github/workflows/snake.yml -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sandovaldavid/sandovaldavid/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sandovaldavid/sandovaldavid/output/github-snake.svg" />
-    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/sandovaldavid/sandovaldavid/output/github-snake.svg" width="100%" />
-  </picture>
 </div>
 
 <br/>
