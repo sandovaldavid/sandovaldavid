@@ -135,8 +135,8 @@ I am passionate about "Learning by Doing". Currently focused on:
   <a href="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight">
     <img src="https://github-stats-extended.vercel.app/api?username=sandovaldavid&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&include_all_commits=true&theme=tokyonight" alt="My GitHub Stats"/>
   </a>
-  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=tokyonight">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&hide_progress=true&langs_count=6&hide_values=true&theme=tokyonight" alt="Top Languages"/>
+  <a href="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&langs_count=6&theme=tokyonight">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=sandovaldavid&layout=compact&langs_count=6&theme=tokyonight" alt="Top Languages"/>
   </a>
 </div>
 
