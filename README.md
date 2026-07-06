@@ -127,20 +127,20 @@ I am passionate about "Learning by Doing". Currently focused on:
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/sandovaldavid/ideas-generator-ai-api">
-          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=ideas-generator-ai-api&description_lines_count=3&theme=transparent" width="100%" alt="AI Idea Generator — API"/>
+        <a href="https://github.com/sandovaldavid/GitCardX">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=GitCardX&description_lines_count=3&theme=transparent" width="100%" alt="GitCardX"/>
         </a>
       </td>
     </tr>
     <tr>
       <td width="50%" align="center">
-        <a href="https://github.com/sandovaldavid/sentiment-analysis-web">
-          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=sentiment-analysis-web&description_lines_count=3&theme=transparent" width="100%" alt="AI Sentiment Analyzer — Web"/>
+        <a href="https://github.com/sandovaldavid/unp-campus-map">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=unp-campus-map&description_lines_count=3&theme=transparent" width="100%" alt="UNP Campus Map"/>
         </a>
       </td>
       <td width="50%" align="center">
-        <a href="https://github.com/sandovaldavid/sentiment-analysis-api">
-          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=sentiment-analysis-api&description_lines_count=3&theme=transparent" width="100%" alt="AI Sentiment Analyzer — API"/>
+        <a href="https://github.com/sandovaldavid/fluentreads">
+          <img src="https://github-stats-extended.vercel.app/api/pin?username=sandovaldavid&repo=fluentreads&description_lines_count=3&theme=transparent" width="100%" alt="FluentReads"/>
         </a>
       </td>
     </tr>
