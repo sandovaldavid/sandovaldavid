@@ -1,40 +1,14 @@
-name: GitHub Metrics
-
-# Genera github-metrics.svg con actividad REAL (incluye repos privados),
-# lenguajes en profundidad y un calendario isométrico de un año.
-# Este es el "snapshot dinámico" honesto que reemplaza al texto hardcodeado anterior.
-#
-# Requiere el secret METRICS_TOKEN: un Personal Access Token (classic) con scopes
-# `repo` (para leer los repos privados) y `read:org`. Créalo en:
-# GitHub > Settings > Developer settings > Personal access tokens (classic)
-# y guárdalo en: repo > Settings > Secrets and variables > Actions.
+name: Deprecated — GitHub Metrics
 
 on:
-  schedule:
-    - cron: "0 0 * * *" # diario a medianoche UTC
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  metrics:
+  deprecated:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate metrics
-        # Recomendado: fijar a un SHA en vez de @v3.34 para máxima seguridad de supply-chain.
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: github-metrics.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: sandovaldavid
-          template: classic
-          base: header, activity, community, repositories, metadata
-          config_timezone: America/Lima
-          plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
-          plugin_languages: yes
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 8
-          plugin_languages_details: bytes-size, percentage
-          plugin_lines: yes
+      - name: Explain deprecation
+        run: echo "Disabled because the profile no longer publishes generated activity metrics."
