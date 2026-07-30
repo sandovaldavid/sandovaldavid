@@ -2,39 +2,74 @@
 
 **Software Engineer**
 
-I build and improve software systems with attention to validation, maintainability, and reproducible workflows. I connect technical decisions with business rules and product needs, then document decisions and learning as reusable technical knowledge.
+Backend-oriented Software Engineer working remotely from Peru, currently building and maintaining fintech software with .NET, C#, Angular, and TypeScript.
 
-## Selected work
+I connect technical decisions with business rules, product needs, validation, and maintainability. I document the reasoning behind the work so problems, trade-offs, and lessons become reusable technical knowledge.
 
-### Kioku
+`Backend engineering` · `Product-aware development` · `Open source` · `Developer tooling`
+
+## 🔎 Selected work
+
+### Kioku — public open source
 
 Kioku is a local-first .NET MCP server for preserving and retrieving structured knowledge from Obsidian vaults across AI-agent sessions.
 
+```text
+AI agents ↔ MCP ↔ Kioku ↔ Markdown and YAML ↔ Obsidian vault
+```
+
 I design and maintain the project across MCP contracts, retrieval, automated testing, CI, security, documentation, and release automation. Stable releases and active development are documented separately so features and evidence remain branch-aware.
+
+**Evidence**
 
 - [Repository and documentation](https://github.com/sandovaldavid/kioku)
 - [Stable releases](https://github.com/sandovaldavid/kioku/releases)
 - [Active development](https://github.com/sandovaldavid/kioku/tree/develop)
 
-## Engineering approach
+### Yukidoke — private product
+
+Yukidoke is a private household personal-finance application built with a modular .NET API and an Angular client, with financial rules and permissions owned by the backend.
+
+```text
+Keycloak identity · PostgreSQL system of record
+.NET domain authority · Angular presentation
+```
+
+I design and maintain the product across backend, frontend, architecture, testing, documentation, and cross-repository contracts. The V1 API is feature-complete by backend criteria, while the Angular client remains in active beta and is migrating toward server-authoritative financial behavior.
+
+**Evidence boundary**
+
+- The source repositories and current deployment are private.
+- No public production use, adoption, revenue, or external-user results are claimed.
+- The project demonstrates architecture, household privacy, financial consistency, testing, and coordinated Angular/.NET development.
+
+## 🧭 How I work
 
 `Problem → Research → Alternatives → Decision → Implementation → Validation → Learning`
 
 - Break complex problems into manageable parts and investigate constraints before deciding.
+- Connect implementation choices with product needs, business rules, and explicit sources of truth.
 - Build for maintainability, testing, reproducibility, and operational clarity.
-- Connect implementation choices with product needs and business rules.
 - Turn project work, errors, and decisions into reusable technical knowledge.
+- Keep claims bounded by the evidence that can be reviewed.
 
-## Technical context
+## 🧰 Current technical context
 
-- **Backend:** C#, .NET, APIs, Model Context Protocol
-- **Frontend:** Angular, TypeScript
-- **Engineering:** automated testing, CI/CD, containers, documentation, developer tooling
-- **Data:** relational and document databases
+- **Backend:** `C#` · `.NET` · `APIs` · `Model Context Protocol`
+- **Frontend:** `Angular` · `TypeScript`
+- **Engineering:** `automated testing` · `CI/CD` · `containers` · `documentation` · `developer tooling`
+- **Data:** `relational databases` · `document databases`
+- **Domain experience:** `fintech` · `financial workflows`
 
-These technologies describe my current working context; the evidence in public repositories is the primary reference.
+These technologies describe my current working context. Public repositories, releases, tests, pull requests, and documentation are the primary evidence.
 
-## Connect
+## 🌍 Current direction
+
+I am deepening my backend engineering practice, increasing responsibility through verifiable work, contributing to open-source tooling, and preparing for international opportunities.
+
+Longer term, I want to grow toward technical leadership and building technology products without overstating responsibilities or results that I have not yet earned.
+
+## 📫 Connect
 
 - [Portfolio](https://sandovaldavid.com)
 - [Link hub](https://hub.sandovaldavid.com)
