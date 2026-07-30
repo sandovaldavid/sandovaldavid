@@ -1,31 +1,14 @@
-name: WakaTime Weekly Stats
-
-# Inyecta tu desglose semanal de tiempo de código (por lenguaje) entre los markers
-# <!--START_SECTION:waka--> y <!--END_SECTION:waka--> del README.
-#
-# Requiere el secret WAKATIME_API_KEY (de https://wakatime.com/settings/api-key).
-# El token de commit se toma automáticamente de github.token (permite contents: write).
+name: Deprecated — WakaTime Weekly Stats
 
 on:
-  schedule:
-    - cron: "30 0 * * *" # diario, 00:30 UTC
   workflow_dispatch:
 
 permissions:
-  contents: write
+  contents: read
 
 jobs:
-  update-readme:
+  deprecated:
     runs-on: ubuntu-latest
     steps:
-      - name: Update WakaTime stats
-        # Recomendado: fijar a un SHA en vez de @v1 para máxima seguridad de supply-chain.
-        uses: athul/waka-readme@v1
-        with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ github.token }}
-          SECTION_NAME: waka
-          SHOW_TITLE: "true"
-          BLOCKS: "░▒▓█"
-          TIME_RANGE: last_7_days
-          LANG_COUNT: 8
+      - name: Explain deprecation
+        run: echo "Disabled because the profile no longer publishes WakaTime statistics."
