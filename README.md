@@ -67,7 +67,7 @@ These technologies describe my current working context. Public repositories, rel
 
 I am deepening my backend engineering practice, increasing responsibility through verifiable work, contributing to open-source tooling, and preparing for international opportunities.
 
-Longer term, I want to grow toward technical leadership and building technology products without overstating responsibilities or results that I have not yet earned.
+Longer term, I aim to grow toward technical leadership and building technology products, supported by progressively stronger evidence and responsibility.
 
 ## 📫 Connect
 
