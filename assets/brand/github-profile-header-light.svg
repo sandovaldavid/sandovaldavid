@@ -1,0 +1,38 @@
+<svg width="1600" height="400" viewBox="0 0 1600 400" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">David Sandoval — Software Engineer</title>
+  <desc id="desc">Light-mode profile header presenting David Sandoval, his software engineering role, and evidence-led working principles.</desc>
+  <g id="Mode=Light">
+    <rect width="1600" height="400" fill="#F5F8FC"/>
+    <rect id="Accent / Leading Rule" width="10" height="400" fill="#0A5CD6"/>
+    <rect id="Accent / Detail Rule" x="94" y="298" width="260" height="3" rx="1.5" fill="#3B82F6"/>
+    <text id="Kicker" fill="#0A5CD6" style="white-space: pre" xml:space="preserve" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="1.5px"><tspan x="94" y="77.04">SOFTWARE ENGINEER</tspan></text>
+    <text id="Name" fill="#0F172A" style="white-space: pre" xml:space="preserve" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="62" font-weight="700" letter-spacing="-1.2px"><tspan x="92" y="156.545">David Sandoval</tspan></text>
+    <text id="Statement" fill="#334155" style="white-space: pre" xml:space="preserve" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22"><tspan x="94" y="210">Build with judgment. Explain with clarity. Demonstrate with evidence.</tspan></text>
+    <text id="Context" fill="#475569" style="white-space: pre" xml:space="preserve" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="500" letter-spacing="0.1px"><tspan x="94" y="336.455">Backend engineering  &#xb7;  Product-aware development  &#xb7;  Developer tooling</tspan></text>
+    <circle id="Decoration / Orbit" cx="1407" cy="200" r="145.5" stroke="#CBD5E1"/>
+    <circle id="Brand / Signature Surface" cx="1408" cy="200" r="109.5" fill="#FFFFFF" stroke="#CBD5E1"/>
+    <circle id="Decoration / Accent Dot" cx="1511" cy="84" r="6" fill="#3B82F6"/>
+    <g id="Logo / Supporting Isotype">
+      <circle id="Ring" cx="1408" cy="200" r="63.9844" stroke="#0044CC" stroke-width="8.53125"/>
+      <g id="Bracket / Left">
+        <path id="Bracket / Left / Vector" d="M1387.89 173.797L1361.69 200L1387.89 226.203" stroke="#1E40AF" stroke-width="12.7969" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g id="Bracket / Right">
+        <path id="Bracket / Right / Vector" d="M1428.11 173.797L1454.31 200L1428.11 226.203" stroke="#1E40AF" stroke-width="12.7969" stroke-linecap="round" stroke-linejoin="round"/>
+      </g>
+      <g id="Slash / Base">
+        <path id="Slash / Base / Vector" d="M1417.14 158.562L1398.86 241.438" stroke="#1E40AF" stroke-width="12.7969" stroke-linecap="round"/>
+      </g>
+      <g id="Slash / Accent">
+        <g id="Slash / Accent / Integrated">
+          <mask id="mask0_light" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="1372" y="196" width="65" height="67">
+            <path id="Slash / Accent / Mask" d="M1378.75 196.648L1430.55 217.977L1436.64 262.156H1372.66L1378.75 196.648Z" fill="#FFFFFF"/>
+          </mask>
+          <g mask="url(#mask0_light)">
+            <path id="Slash / Accent / Color Segment" d="M1417.14 158.562L1398.86 241.438" stroke="#00B0FF" stroke-width="12.7969" stroke-linecap="round"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
