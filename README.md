@@ -1,3 +1,12 @@
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brand/github-profile-header-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/brand/github-profile-header-mobile-light.svg">
+  <source media="(max-width: 600px)" srcset="./assets/brand/github-profile-header-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/github-profile-header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/brand/github-profile-header-light.svg">
+  <img src="./assets/brand/github-profile-header-light.svg" alt="David Sandoval — Software Engineer" width="100%">
+</picture>
+
 # David Sandoval
 
 **Software Engineer**
@@ -30,18 +39,9 @@ I design and maintain the project across MCP contracts, retrieval, automated tes
 
 Yukidoke is a private household personal-finance application built with a modular .NET API and an Angular client, with financial rules and permissions owned by the backend.
 
-```text
-Keycloak identity · PostgreSQL system of record
-.NET domain authority · Angular presentation
-```
+I design and maintain it across backend, frontend, architecture, testing, documentation, and cross-repository contracts. The V1 API is feature-complete by backend criteria; the Angular client remains in active beta.
 
-I design and maintain the product across backend, frontend, architecture, testing, documentation, and cross-repository contracts. The V1 API is feature-complete by backend criteria, while the Angular client remains in active beta and is migrating toward server-authoritative financial behavior.
-
-**Evidence boundary**
-
-- The source repositories and current deployment are private.
-- No public production use, adoption, revenue, or external-user results are claimed.
-- The project demonstrates architecture, household privacy, financial consistency, testing, and coordinated Angular/.NET development.
+The source repositories and current deployment are private, so no public production use, adoption, revenue, or external-user results are claimed.
 
 ## 🧭 How I work
 
