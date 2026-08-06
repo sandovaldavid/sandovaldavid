@@ -7,7 +7,7 @@
     <rect id="Accent / Detail Rule" x="94" y="298" width="260" height="3" rx="1.5" fill="#00D8FF"/>
     <text id="Kicker" fill="#00B0FF" style="white-space: pre" xml:space="preserve" font-family="'JetBrains Mono', ui-monospace, SFMono-Regular, Consolas, monospace" font-size="14" font-weight="700" letter-spacing="1.5px"><tspan x="94" y="77.04">SOFTWARE ENGINEER</tspan></text>
     <text id="Name" fill="#F1F5F9" style="white-space: pre" xml:space="preserve" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="62" font-weight="700" letter-spacing="-1.2px"><tspan x="92" y="156.545">David Sandoval</tspan></text>
-    <text id="Statement" fill="#CBD5E1" style="white-space: pre" xml:space="preserve" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22"><tspan x="94" y="210">Build with judgment. Explain with clarity. Demonstrate with evidence.</tspan></text>
+    <text id="Statement" fill="#CBD5E1" style="white-space: pre" xml:space="preserve" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="22"><tspan x="94" y="210">Build with intent. Explain decisions clearly. Back claims with evidence.</tspan></text>
     <text id="Context" fill="#94A3B8" style="white-space: pre" xml:space="preserve" font-family="Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="15" font-weight="500" letter-spacing="0.1px"><tspan x="94" y="336.455">Backend engineering  &#xb7;  Product-aware development  &#xb7;  Developer tooling</tspan></text>
     <circle id="Decoration / Orbit" cx="1407" cy="200" r="145.5" stroke="#1E293B"/>
     <circle id="Brand / Signature Surface" cx="1408" cy="200" r="109.5" fill="#0A0D14" stroke="#1E293B"/>
