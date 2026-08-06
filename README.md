@@ -1,4 +1,7 @@
 <picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/brand/github-profile-header-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/brand/github-profile-header-mobile-light.svg">
+  <source media="(max-width: 600px)" srcset="./assets/brand/github-profile-header-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="./assets/brand/github-profile-header-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="./assets/brand/github-profile-header-light.svg">
   <img src="./assets/brand/github-profile-header-light.svg" alt="David Sandoval — Software Engineer" width="100%">
