@@ -52,9 +52,23 @@ Yukidoke is a private household personal-finance product with a modular .NET API
 - When new evidence contradicts my first conclusion, I change the conclusion instead of forcing the evidence to fit it.
 - I write down useful decisions and lessons so the next investigation starts with more context.
 
-## Current toolkit
+## Tools I work with
 
-`C# / .NET` · `Angular / TypeScript` · `APIs` · `MCP` · `relational & document data` · `automated testing` · `CI/CD` · `containers` · `Bash`
+**Backend & APIs**
+
+<img src="./assets/toolkit/csharp.svg" alt="C#" height="28"> <img src="./assets/toolkit/dotnet.svg" alt=".NET" height="28">
+
+**Frontend**
+
+<img src="./assets/toolkit/angular.svg" alt="Angular" height="28"> <img src="./assets/toolkit/typescript.svg" alt="TypeScript" height="28">
+
+**Data**
+
+<img src="./assets/toolkit/postgresql.svg" alt="PostgreSQL" height="28"> <img src="./assets/toolkit/mongodb.svg" alt="MongoDB" height="28"> <img src="./assets/toolkit/redis.svg" alt="Redis" height="28">
+
+**Tooling**
+
+<img src="./assets/toolkit/docker.svg" alt="Docker" height="28"> <img src="./assets/toolkit/github-actions.svg" alt="GitHub Actions" height="28"> <img src="./assets/toolkit/bash.svg" alt="Bash" height="28">
 
 The tools change over time. The part I want to keep improving is the reasoning: understanding constraints, making trade-offs explicit, and building software that is easier to change safely.
 
