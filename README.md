@@ -7,71 +7,63 @@
   <img src="./assets/brand/github-profile-header-light.svg" alt="David Sandoval — Software Engineer" width="100%">
 </picture>
 
-# David Sandoval
+# Hi, I'm David 👋
 
-**Software Engineer**
+I'm a **Software Engineer from Peru**, working remotely on fintech software since January 2026.
 
-Backend-oriented Software Engineer working remotely from Peru, currently building and maintaining fintech software with .NET, C#, Angular, and TypeScript.
+Most of my day-to-day work is backend-oriented with **.NET and C#**, but I also work across **Angular and TypeScript** when a problem crosses the product. What I enjoy most is the investigation behind a good fix: tracing assumptions, narrowing a bug to the right layer, making contracts explicit, and validating that the behavior really changed.
 
-I connect technical decisions with business rules, product needs, validation, and maintainability. I document the reasoning behind the work so problems, trade-offs, and lessons become reusable technical knowledge.
+[Portfolio](https://sandovaldavid.com) · [LinkedIn](https://www.linkedin.com/in/jdsandovals) · [Link hub](https://hub.sandovaldavid.com) · [Email](mailto:hello@sandovaldavid.com)
 
-`Backend engineering` · `Product-aware development` · `Open source` · `Developer tooling`
+## What I do at work
 
-## 🔎 Selected work
+### Atena — Jr. Software Engineer
 
-### Kioku — public open source
+Since January 2026, I've been building and maintaining fintech software with .NET/C# and Angular/TypeScript.
 
-Kioku is a local-first .NET MCP server for preserving and retrieving structured knowledge from Obsidian vaults across AI-agent sessions.
+My work has included debugging behavior across layers, tightening authorization boundaries, coordinating contract changes between services, and validating fixes with tests, compiler feedback, and static analysis. The company code is private, so I keep the details sanitized and focus here on the engineering patterns I can discuss responsibly.
 
-```text
-AI agents ↔ MCP ↔ Kioku ↔ Markdown and YAML ↔ Obsidian vault
-```
+## Selected engineering work
 
-I design and maintain the project across MCP contracts, retrieval, automated testing, CI, security, documentation, and release automation. Stable releases and active development are documented separately so features and evidence remain branch-aware.
+### [Kioku](https://github.com/sandovaldavid/kioku)
 
-**Evidence**
+A local-first .NET MCP server for preserving, retrieving, and updating structured knowledge in Obsidian vaults across AI-agent sessions.
 
-- [Repository and documentation](https://github.com/sandovaldavid/kioku)
-- [Stable releases](https://github.com/sandovaldavid/kioku/releases)
-- [Active development](https://github.com/sandovaldavid/kioku/tree/develop)
+I maintain the project across MCP contracts, retrieval, testing, security boundaries, CI/release automation, and technical documentation.
 
-### Yukidoke — private product
+[Repository](https://github.com/sandovaldavid/kioku) · [Documentation](https://kioku.sandovaldavid.com) · [Releases](https://github.com/sandovaldavid/kioku/releases)
 
-Yukidoke is a private household personal-finance application built with a modular .NET API and an Angular client, with financial rules and permissions owned by the backend.
+### [OCI ARM Hunter](https://github.com/sandovaldavid/oci-arm-hunter)
 
-I design and maintain it across backend, frontend, architecture, testing, documentation, and cross-repository contracts. The V1 API is feature-complete by backend criteria; the Angular client remains in active beta.
+A Bash automation tool that retries Oracle Cloud ARM Always Free capacity, rotates Availability Domains, adds jitter between attempts, and supports unattended execution with notifications.
 
-The source repositories and current deployment are private, so no public production use, adoption, revenue, or external-user results are claimed.
+It is a smaller project than Kioku, but it shows another side of my work: turning an annoying operational problem into a reproducible tool.
 
-## 🧭 How I work
+[Repository](https://github.com/sandovaldavid/oci-arm-hunter) · [Documentation](https://oci.sandovaldavid.com)
 
-`Problem → Research → Alternatives → Decision → Implementation → Validation → Learning`
+### Also building: Yukidoke
 
-- Break complex problems into manageable parts and investigate constraints before deciding.
-- Connect implementation choices with product needs, business rules, and explicit sources of truth.
-- Build for maintainability, testing, reproducibility, and operational clarity.
-- Turn project work, errors, and decisions into reusable technical knowledge.
-- Keep claims bounded by the evidence that can be reviewed.
+Yukidoke is a private household personal-finance product with a modular .NET API and an Angular client. It is currently in active V1 hardening, so I use it as private product/architecture practice rather than presenting it as a finished public product.
 
-## 🧰 Current technical context
+## How I approach engineering
 
-- **Backend:** `C#` · `.NET` · `APIs` · `Model Context Protocol`
-- **Frontend:** `Angular` · `TypeScript`
-- **Engineering:** `automated testing` · `CI/CD` · `containers` · `documentation` · `developer tooling`
-- **Data:** `relational databases` · `document databases`
-- **Domain experience:** `fintech` · `financial workflows`
+- I try to understand the assumption behind a bug before I touch the fix.
+- I use compiler/type feedback, tests, and static analysis to find hidden consumers and make changes easier to reason about.
+- When new evidence contradicts my first conclusion, I change the conclusion instead of forcing the evidence to fit it.
+- I write down useful decisions and lessons so the next investigation starts with more context.
 
-These technologies describe my current working context. Public repositories, releases, tests, pull requests, and documentation are the primary evidence.
+## Current toolkit
 
-## 🌍 Current direction
+`C# / .NET` · `Angular / TypeScript` · `APIs` · `MCP` · `relational & document data` · `automated testing` · `CI/CD` · `containers` · `Bash`
 
-I am deepening my backend engineering practice, increasing responsibility through verifiable work, contributing to open-source tooling, and preparing for international opportunities.
+The tools change over time. The part I want to keep improving is the reasoning: understanding constraints, making trade-offs explicit, and building software that is easier to change safely.
 
-Longer term, I aim to grow toward technical leadership and building technology products, supported by progressively stronger evidence and responsibility.
+## Beyond the code
 
-## 📫 Connect
+I'm currently finishing my thesis, building open-source tools, improving my English, and preparing for international opportunities.
 
-- [Portfolio](https://sandovaldavid.com)
-- [Link hub](https://hub.sandovaldavid.com)
-- [LinkedIn](https://www.linkedin.com/in/jdsandovals)
-- [Email](mailto:hello@sandovaldavid.com)
+Away from engineering, you'll usually find me around books, Japanese culture, music, or games.
+
+## Say hello
+
+If you're reviewing my GitHub after seeing my profile or application, the best place to get the full picture is my [portfolio](https://sandovaldavid.com). You can also reach me on [LinkedIn](https://www.linkedin.com/in/jdsandovals) or at [hello@sandovaldavid.com](mailto:hello@sandovaldavid.com).
