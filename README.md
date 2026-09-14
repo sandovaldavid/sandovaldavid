@@ -13,7 +13,7 @@ I'm a **Software Engineer from Peru**, working remotely on fintech software sinc
 
 Most of my day-to-day work is backend-oriented with **.NET and C#**, but I also work across **Angular and TypeScript** when a problem crosses the product. What I enjoy most is the investigation behind a good fix: tracing assumptions, narrowing a bug to the right layer, making contracts explicit, and validating that the behavior really changed.
 
-[Portfolio](https://sandovaldavid.com) · [LinkedIn](https://www.linkedin.com/in/jdsandovals) · [Link hub](https://hub.sandovaldavid.com) · [Email](mailto:hello@sandovaldavid.com)
+[Portfolio](https://sandovaldavid.com) · [LinkedIn](https://www.linkedin.com/in/davidsandoval-s) · [Link hub](https://hub.sandovaldavid.com) · [Email](mailto:hello@sandovaldavid.com)
 
 ## What I do at work
 
@@ -80,4 +80,4 @@ Away from engineering, you'll usually find me around books, Japanese culture, mu
 
 ## Say hello
 
-If you're reviewing my GitHub after seeing my profile or application, the best place to get the full picture is my [portfolio](https://sandovaldavid.com). You can also reach me on [LinkedIn](https://www.linkedin.com/in/jdsandovals) or at [hello@sandovaldavid.com](mailto:hello@sandovaldavid.com).
+If you're reviewing my GitHub after seeing my profile or application, the best place to get the full picture is my [portfolio](https://sandovaldavid.com). You can also reach me on [LinkedIn](https://www.linkedin.com/in/davidsandoval-s) or at [hello@sandovaldavid.com](mailto:hello@sandovaldavid.com).
