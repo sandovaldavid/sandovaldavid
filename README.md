@@ -7,50 +7,34 @@
   <img src="./assets/brand/github-profile-header-light.svg" alt="David Sandoval — Software Engineer" width="100%">
 </picture>
 
-# Hi, I'm David 👋
+**Software Engineer** based in Peru (`UTC-5`), working remotely on production fintech software since January 2026.
 
-I'm a **Software Engineer from Peru**, working remotely on fintech software since January 2026.
+My day-to-day work is backend-oriented with **.NET and C#**, extending across **Angular and TypeScript** when features, contracts, or bugs cross the stack. What I enjoy most is the investigation behind a reliable fix: tracing assumptions, narrowing a failure to the right layer, making contracts explicit, and verifying that the behavior actually changed.
 
-Most of my day-to-day work is backend-oriented with **.NET and C#**, but I also work across **Angular and TypeScript** when a problem crosses the product. What I enjoy most is the investigation behind a good fix: tracing assumptions, narrowing a bug to the right layer, making contracts explicit, and validating that the behavior really changed.
+[Portfolio](https://sandovaldavid.com) · [Resume (PDF)](https://sandovaldavid.com/resume/david-sandoval-resume.pdf) · [Link Hub](https://hub.sandovaldavid.com) · [LinkedIn](https://www.linkedin.com/in/davidsandoval-s) · [hello@sandovaldavid.com](mailto:hello@sandovaldavid.com)
 
-[Portfolio](https://sandovaldavid.com) · [LinkedIn](https://www.linkedin.com/in/davidsandoval-s) · [Link hub](https://hub.sandovaldavid.com) · [Email](mailto:hello@sandovaldavid.com)
+## Engineering in production
 
-## What I do at work
+### Software Engineer · Atena (Fintech)
 
-### Atena — Jr. Software Engineer
+*Remote · January 2026 – Present*
 
-Since January 2026, I've been building and maintaining fintech software with .NET/C# and Angular/TypeScript.
-
-My work has included debugging behavior across layers, tightening authorization boundaries, coordinating contract changes between services, and validating fixes with tests, compiler feedback, and static analysis. The company code is private, so I keep the details sanitized and focus here on the engineering patterns I can discuss responsibly.
+Building and maintaining fintech software with **.NET/C#** and **Angular/TypeScript**. My work focuses on debugging behavior across layers, tightening authorization boundaries, coordinating contract changes between services, and validating fixes with tests, compiler feedback, and static analysis. Because the company codebase is private, I keep proprietary details sanitized and share only the engineering patterns I can discuss responsibly.
 
 ## Selected engineering work
 
-### [Kioku](https://github.com/sandovaldavid/kioku)
-
-A local-first .NET MCP server for preserving, retrieving, and updating structured knowledge in Obsidian vaults across AI-agent sessions.
-
-I maintain the project across MCP contracts, retrieval, testing, security boundaries, CI/release automation, and technical documentation.
-
-[Repository](https://github.com/sandovaldavid/kioku) · [Documentation](https://kioku.sandovaldavid.com) · [Releases](https://github.com/sandovaldavid/kioku/releases)
-
-### [OCI ARM Hunter](https://github.com/sandovaldavid/oci-arm-hunter)
-
-A Bash automation tool that retries Oracle Cloud ARM Always Free capacity, rotates Availability Domains, adds jitter between attempts, and supports unattended execution with notifications.
-
-It is a smaller project than Kioku, but it shows another side of my work: turning an annoying operational problem into a reproducible tool.
-
-[Repository](https://github.com/sandovaldavid/oci-arm-hunter) · [Documentation](https://oci.sandovaldavid.com)
-
-### Also building: Yukidoke
-
-Yukidoke is a private household personal-finance product with a modular .NET API and an Angular client. It is currently in active V1 hardening, so I use it as private product/architecture practice rather than presenting it as a finished public product.
+| System | Scope & engineering focus | Verification & links |
+| :--- | :--- | :--- |
+| **[Kioku](https://github.com/sandovaldavid/kioku)** | Local-first **.NET MCP server** for preserving, retrieving, and updating structured knowledge in Obsidian vaults across AI-agent sessions. Maintained across MCP contracts, retrieval, security boundaries, testing, CI/release automation, and documentation. | [Repository](https://github.com/sandovaldavid/kioku) · [Docs](https://kioku.sandovaldavid.com) · [Releases](https://github.com/sandovaldavid/kioku/releases) |
+| **[Yukidoke](https://sandovaldavid.com/projects/yukidoke)** | Private household finance platform with a modular **.NET API** and an **Angular** client. Currently in active V1 hardening and used as ongoing domain and architecture practice rather than presented as a public release. | [Case Study](https://sandovaldavid.com/projects/yukidoke) *(Private repo)* |
+| **[OCI ARM Hunter](https://github.com/sandovaldavid/oci-arm-hunter)** | **Bash & OCI CLI** automation tool that retries Oracle Cloud ARM Always Free capacity, rotates Availability Domains, adds jitter between attempts, and supports unattended notifications—turning an operational bottleneck into a reproducible tool. | [Repository](https://github.com/sandovaldavid/oci-arm-hunter) · [Docs](https://oci.sandovaldavid.com) |
 
 ## How I approach engineering
 
-- I try to understand the assumption behind a bug before I touch the fix.
-- I use compiler/type feedback, tests, and static analysis to find hidden consumers and make changes easier to reason about.
-- When new evidence contradicts my first conclusion, I change the conclusion instead of forcing the evidence to fit it.
-- I write down useful decisions and lessons so the next investigation starts with more context.
+- **Trace assumptions first:** Understand the assumption behind a bug before touching the fix.
+- **Make contracts explicit:** Use compiler/type feedback, automated tests, and static analysis to surface hidden consumers and make changes safer to reason about.
+- **Follow the evidence:** When new evidence contradicts an initial hypothesis, update the conclusion instead of forcing the evidence to fit it.
+- **Leave durable context:** Write down key decisions and trade-offs so the next investigation starts with clearer context.
 
 ## Tools I work with
 
@@ -70,14 +54,12 @@ Yukidoke is a private household personal-finance product with a modular .NET API
 
 <img src="./assets/toolkit/docker.svg" alt="Docker" height="28"> <img src="./assets/toolkit/github-actions.svg" alt="GitHub Actions" height="28"> <img src="./assets/toolkit/bash.svg" alt="Bash" height="28">
 
-The tools change over time. The part I want to keep improving is the reasoning: understanding constraints, making trade-offs explicit, and building software that is easier to change safely.
+Tools evolve over time; the discipline I focus on compounding is engineering judgment: understanding constraints, making trade-offs explicit, and designing software that remains safe to change.
 
 ## Beyond the code
 
-I'm currently finishing my thesis, building open-source tools, improving my English, and preparing for international opportunities.
+Outside of production work, I build open-source developer tools, write technical documentation, and explore software architecture across backend and web systems. Away from the keyboard, you'll usually find me around books, Japanese culture, music, or games.
 
-Away from engineering, you'll usually find me around books, Japanese culture, music, or games.
+## Contact
 
-## Say hello
-
-If you're reviewing my GitHub after seeing my profile or application, the best place to get the full picture is my [portfolio](https://sandovaldavid.com). You can also reach me on [LinkedIn](https://www.linkedin.com/in/davidsandoval-s) or at [hello@sandovaldavid.com](mailto:hello@sandovaldavid.com).
+If you're reviewing my GitHub for a software engineering role or collaboration, my [portfolio](https://sandovaldavid.com) and [resume](https://sandovaldavid.com/resume/david-sandoval-resume.pdf) offer the complete picture. You can also reach me directly on [LinkedIn](https://www.linkedin.com/in/davidsandoval-s) or at [hello@sandovaldavid.com](mailto:hello@sandovaldavid.com).
